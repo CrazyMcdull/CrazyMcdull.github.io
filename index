@@ -2,17 +2,25 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>欢迎来到疯麦兜的小家园</title>
+	<title>欢迎来到疯麦兜的小页面</title>
   <style>
       *{
         padding:0;
         margin:0;
       }
-      
+      #style{
+      	display:block;
+	width:200px;
+	height:100px;
+	color:#666;
+	border:1px solid #333;
+	white-space:pre-wrap;
+	word-wrap:break-word;
+      }
   </style>
 </head>
 <body>
-    <style id="style" contentEditable="true">
+    <style id="style" contenteditable="true">
     h1{
         width:600px;
         height:30px;
